@@ -23,4 +23,3 @@ A memory game created with React featuring the starter Pokemon from Kanto all th
 The object of the game is to click every starter Pokemon once without clicking any twice. The game begins when you click on your first Pokemon. After each click, the Pokemon will be shuffled, challenging you to remember which ones you havent clicked yet. You'll receive one point for every unique Pokemon that you click. Your score and your high score are displayed in the nav bar. It's game over when you click the same Pokemon twice.
 
 <h2>Check it out on Github Pages!</h2>
-https://linalockheart.github.io/clicky-game/
